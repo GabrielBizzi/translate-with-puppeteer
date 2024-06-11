@@ -1,0 +1,74 @@
+[
+  {
+    "code": "AAA",
+    "lat": "-17.3595",
+    "lon": "-145.494",
+    "name": "Aeroporto de Anaa",
+    "city": "Anaa",
+    "state": "Tuamotu-Gambier",
+    "country": "Polinésia Francesa"
+  },
+  {
+    "code": "AAE",
+    "lat": "36.8236",
+    "lon": "7.8103",
+    "name": "Aeroporto El Mellah",
+    "city": "El Tarf",
+    "state": "Annaba",
+    "country": "Argélia"
+  },
+  {
+    "code": "AAL",
+    "lat": "57.0952",
+    "lon": "9.85606",
+    "name": "Aeroporto de Aalborg",
+    "city": "Norresundby",
+    "state": "Nordjylland",
+    "country": "Dinamarca"
+  },
+  {
+    "code": "AAM",
+    "lat": "-24.8",
+    "lon": "31.5333",
+    "name": "Mala Mala",
+    "city": "Mala Mala",
+    "state": "",
+    "country": "África do Sul"
+  },
+  {
+    "code": "AAN",
+    "lat": "24.25",
+    "lon": "55.75",
+    "name": "Aeroporto de Al-Ain",
+    "city": "Ayn al Faydah",
+    "state": "Abu Dhabi",
+    "country": "Emirados Árabes Unidos"
+  },
+  {
+    "code": "AAQ",
+    "lat": "44.9",
+    "lon": "37.3167",
+    "name": "Aeroporto de Olkhovka",
+    "city": "Novorossiysk",
+    "state": "Krasnodarskiy Kray",
+    "country": "Rússia"
+  },
+  {
+    "code": "AAR",
+    "lat": "56.3088",
+    "lon": "10.6154",
+    "name": "Aeroporto de Tirstrup",
+    "city": "Kolind",
+    "state": "Midtjylland",
+    "country": "Dinamarca"
+  },
+  {
+    "code": "AAT",
+    "lat": "47.7406",
+    "lon": "88.0845",
+    "name": "Aeroporto de Altai",
+    "city": "Altay",
+    "state": "Xinjiang",
+    "country": "China"
+  }
+]
